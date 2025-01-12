@@ -5,11 +5,7 @@ Welcome to the official GitHub repository of **Fission**, home of the **$FISSION
 ---
 ## 💰 $FISSION
 
-<!---
-### So11111111111111111111111111111111111111111111111
--->
-
-### ⚠️ No Token Has Been Launched Yet! Please be aware of scams.
+### 67ksxjAgHyaW9xRDdnCLkdpk64xQR7my63WFV1ocpump
 
 ---
 
