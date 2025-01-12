@@ -22,25 +22,17 @@ Connect with the Fission ecosystem through these platforms:
 
 <div align="center">
 
-- [Discord](https://discord.com/invite/XFWtmDDf8s)  
-  ![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-- [Hub](https://hub.xyz/fission)  
-  ![Hub](https://img.shields.io/badge/Hub-000?style=for-the-badge&logo=hackaday&logoColor=white)
-
-- [Twitter](https://x.com/fission_web3)  
-  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-- [Notion](https://sprinkle-target-674.notion.site/Welcome-to-Fission-162ced5614678071b9b9e4a23c3c042e)  
-  ![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
-
-- [Telegram: Official](https://t.me/fission_official)  
-  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-- [Telegram: Portal](https://t.me/fission_portal)  
-  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+| Link | Badge |
+|------|-------|
+| [Discord](https://discord.com/invite/XFWtmDDf8s) | ![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white) |
+| [Hub](https://hub.xyz/fission) | ![Hub](https://img.shields.io/badge/Hub-000?style=for-the-badge&logo=hackaday&logoColor=white) |
+| [Twitter](https://x.com/fission_web3) | ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white) |
+| [Notion](https://sprinkle-target-674.notion.site/Welcome-to-Fission-162ced5614678071b9b9e4a23c3c042e) | ![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white) |
+| [Telegram: Official](https://t.me/fission_official) | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) |
+| [Telegram: Portal](https://t.me/fission_portal) | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) |
 
 </div>
+
 ---
 
 ## 🚀 Get Started
