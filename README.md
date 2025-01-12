@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of **Fission**, home of the **$FISSION** token. Fission is revolutionizing the AI data ecosystem by leveraging the power of Web3 technology. Our decentralized platform provides:
 
-> So11111111111111111111111111111111111111
+`So11111111111111111111111111111111111111`
 
 - **Transparent Ownership**: Empowering individuals and communities to own their data.
 - **Token-Based Incentives**: Rewarding contributions to the ecosystem through the $FISSION token.
