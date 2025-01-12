@@ -2,11 +2,14 @@
 
 Welcome to the official GitHub repository of **Fission**, home of the **$FISSION** token. Fission is revolutionizing the AI data ecosystem by leveraging the power of Web3 technology. Our decentralized platform provides:
 
-<!---
+---
 ## 💰 $FISSION
 
+<!---
 ### So11111111111111111111111111111111111111111111111
 -->
+
+### ⚠️ No Token Has Been Launched Yet! Please be aware of scams.
 
 ---
 
