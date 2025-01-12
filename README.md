@@ -5,7 +5,7 @@ Welcome to the official GitHub repository of **Fission**, home of the **$FISSION
 ---
 ## 💰 $FISSION
 
-### 67ksxjAgHyaW9xRDdnCLkdpk64xQR7my63WFV1ocpump
+### 1
 
 ---
 
